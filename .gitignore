@@ -1,0 +1,7 @@
+sec/*
+sec-scan/*
+tls/*
+tls-scan/*
+perf/*
+perf-scan/*
+bin/*
